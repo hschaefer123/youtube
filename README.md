@@ -1,8 +1,8 @@
-# YouTube
+# YouTube Player
 
 > This demo shows the usage of the [YouTube Player API Reference for iframe Embeds](https://developers.google.com/youtube/iframe_api_reference) from inside a custom UI5 control.
 
-## [OpenUI5 Developer Blog](http://openui5.blogspot.com/2018/04/youtube-player-api.html)
+## [OpenUI5 Developer Blog](http://openui5.blogspot.com/2018/04/youtube-player.html)
 
 ### [Online Demo (SAP HCP)](https://youtube-p1940953245trial.dispatcher.hanatrial.ondemand.com/index.html)
 
