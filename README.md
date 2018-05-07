@@ -6,7 +6,7 @@
 
 ### [Online Demo (SAP HCP)](https://youtube-p1940953245trial.dispatcher.hanatrial.ondemand.com/index.html)
 
-![Screenshot](YouTube.jpg)
+![Screenshot](./YouTube.jpg)
 
 ### Highlights
 - app showing usage of UI5 [YouTube Player API Reference for iframe Embeds](https://developers.google.com/youtube/iframe_api_reference)
